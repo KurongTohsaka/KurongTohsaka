@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there, my friend 👋
+## About me
+I love Python and enjoy using it for various tasks, including but not limited to data analysis, machine learning, deep learning, web development, web scraping, and desktop application development…
+## My Educational Background
+2024-Present: North China Electric Power University (Beijing), China
+- Master of Engineering in Computer Technology
+  - Research Focus: Knowledge Graphs and Explainability of LLM
 
-<!--
-**705248010/705248010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2019-2023: Changchun University of Science and Technology, China
+- Bachelor of Engineering in Data Science and Big Data Technology
+## Recent Project Research
+- Basic Knowledge Graph Research on Intelligent Course: https://github.com/705248010/Principles_of_Computer_Construction_KG
+## Contact me
+- E-mail: hezikang705248010@gmail.com, hekurong@gmail.com
+- blog: 705248010.github.io
