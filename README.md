@@ -8,8 +8,6 @@ I love Python and enjoy using it for various tasks, including but not limited to
 
 2019-2023: Changchun University of Science and Technology, China
 - Bachelor of Engineering in Data Science and Big Data Technology
-## Recent Project Research
-- Basic Knowledge Graph Research on Intelligent Course: https://github.com/705248010/Principles_of_Computer_Construction_KG
 ## Contact me
 - E-mail: hezikang705248010@gmail.com, hekurong@gmail.com
 - blog: 705248010.github.io
