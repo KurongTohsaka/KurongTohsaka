@@ -1,4 +1,4 @@
 # Hi there, I'm TohsakaKurong 👋
 
 ## Contact me
-- blog: HeKurong.github.io
+- blog: https://HeKurong.github.io
